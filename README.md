@@ -182,3 +182,17 @@ Made and printed [R1 Proto V5](https://github.com/atfinke/RX/tree/master/R1/cad)
 | | |
 |:-------------------------:|:-------------------------:|
 |<img src="/May/remote-R1ProtoV4V5.jpeg?raw=true" width="1000"/>|<img src="/May/remote-R1ProtoV5.jpeg?raw=true" width="1000"/>|
+
+---
+
+Still thinking about wire management. Tried out [Fritzing](https://github.com/fritzing/fritzing-app), which I found super addicting. I like making simple (lots of straight lines and right angles) looking circuit boards at the cost of efficiency, which makes things way more difficult. It’s like a complex art puzzle that hits a bunch of my interests. I’m thinking about making a board for R1 to ease some of the wiring, but I’m not committed yet. While the process of making boards is fun, Fritzing has a bunch of sharp pain points that make it difficult to step outside the expected use cases. Upon further investigation, other software in the pcb design space is a combination of too complex for what I’m looking for and too expensive.
+
+---
+
+Yesterday I accidentally pulled another all-nighter, and as I think I mentioned earlier, I don’t enjoy going to sleep after sunrise. That triggered today’s project, setting up removable blackout curtains over my bedroom window’s blinds. 
+
+So far it seems like they will help a ton (only got to test them in the early evening). I got an excuse to use the 3D printer and made some extra parts to cover up holes where light could still get through. Then, I duct taped or otherwise covered any electronic LEDs in the room. I can now pretty much make it pitch black, or fully open, which is totally awesome. 
+
+I’m feeling a little stalled on RX as I wait for the next round of button samples, which is likely a few weeks out. I’ve been trying to think of side projects I can work on (hence curtains), also really any use case for any of the extra buttons I’ll have soon. I just wrapped up some refactoring of R1Kit/Config/Helper that should enable RX’s with a variable number of buttons + more dragging and dropping of colors in the config app. A random idea I had was making a bunch of smaller RX’s for friends, but initially (i.e. last weekend) everything was hardcoded to 4 buttons. 
+
+Another project I’m thinking of spinning up while waiting for new buttons is finally making myself a half decent website (+ maybe combine that with the MagicLines/WikiRaces+ server). I’ve been poking around with Keynote to see if any cool ideas come to mind. For whatever reason, I’m not feeling like returning to the word game, at least not yet.
