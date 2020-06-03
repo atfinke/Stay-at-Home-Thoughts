@@ -211,4 +211,4 @@ I now want to build a gmail digest service so come Thursday (my last day of clas
 
 I also updated the [college](https://github.com/atfinke/college) repo with the new things. I’m a little sad that in 36 hours it’s going to be over. Maybe I should keep updating it through the summer… 
 
-Looking at that last, I’m proud of all the things I was able to accomplish and new things I learned despite going to school and class obligations and whatnot. Without a doubt, I learned infinitely more with those projects than I did in my computer science classes at NU. Yay side projects. I have no clue what the future holds (e.g. when employed) when it comes to these adventures.
+Looking at that list, I’m proud of all the things I was able to accomplish and new things I learned despite going to school and class obligations and whatnot. Without a doubt, I learned infinitely more with those projects than I did in my computer science classes. Yay side projects. I have no clue what the future holds (i.e. when employed) when it comes to these adventures.
