@@ -196,3 +196,19 @@ So far it seems like they will help a ton (only got to test them in the early ev
 I’m feeling a little stalled on RX as I wait for the next round of button samples, which is likely a few weeks out. I’ve been trying to think of side projects I can work on (hence curtains), also really any use case for any of the extra buttons I’ll have soon. I just wrapped up some refactoring of R1Kit/Config/Helper that should enable RX’s with a variable number of buttons + more dragging and dropping of colors in the config app. A random idea I had was making a bunch of smaller RX’s for friends, but initially (i.e. last weekend) everything was hardcoded to 4 buttons. 
 
 Another project I’m thinking of spinning up while waiting for new buttons is finally making myself a half decent website (+ maybe combine that with the MagicLines/WikiRaces+ server). I’ve been poking around with Keynote to see if any cool ideas come to mind. For whatever reason, I’m not feeling like returning to the word game, at least not yet.
+
+---
+
+Another day, another press request for Apple leaks.
+
+I spent some time thinking about a new website, but I still haven’t thought of a new design or format I’d like.
+
+I now want to build a gmail digest service so come Thursday (my last day of class), I can delete my university account from all my devices, and just get a weekly email if there are any noteworthy updates.
+
+---
+
+[Digest](https://github.com/atfinke) created and it works great. For [Today at Me](https://github.com/atfinke/Today-at-Me), I always had to manually start it on login because you can’t set a .py script as a login item. Today I had the idea of using AppleScript to launch terminal to run the script, then bundle the script as a .app . Works great as a login item and now Today at Me and the digest server both run on login! I’m super excited it worked out so well.
+
+I also updated the [college](https://github.com/atfinke/college) repo with the new things. I’m a little sad that in 36 hours it’s going to be over. Maybe I should keep updating it through the summer… 
+
+Looking at that last, I’m proud of all the things I was able to accomplish and new things I learned despite going to school and class obligations and whatnot. Without a doubt, I learned infinitely more with those projects than I did in my computer science classes at NU. Yay side projects. I have no clue what the future holds (e.g. when employed) when it comes to these adventures.
