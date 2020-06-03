@@ -207,7 +207,7 @@ I now want to build a gmail digest service so come Thursday (my last day of clas
 
 ---
 
-[Digest](https://github.com/atfinke) created and it works great. For [Today at Me](https://github.com/atfinke/Today-at-Me), I always had to manually start it on login because you can’t set a .py script as a login item. Today I had the idea of using AppleScript to launch terminal to run the script, then bundle the script as a .app . Works great as a login item and now Today at Me and the digest server both run on login! I’m super excited it worked out so well.
+[Digest](https://github.com/atfinke/digest) created and it works great. For [Today at Me](https://github.com/atfinke/Today-at-Me), I always had to manually start it on login because you can’t set a .py script as a login item. Today I had the idea of using AppleScript to launch terminal to run the script, then bundle the script as a .app . Works great as a login item and now Today at Me and the digest server both run on login! I’m super excited it worked out so well.
 
 I also updated the [college](https://github.com/atfinke/college) repo with the new things. I’m a little sad that in 36 hours it’s going to be over. Maybe I should keep updating it through the summer… 
 
