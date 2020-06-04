@@ -212,3 +212,13 @@ I now want to build a gmail digest service so come Thursday (my last day of clas
 I also updated the [college](https://github.com/atfinke/college) repo with the new things. I’m a little sad that in 36 hours it’s going to be over. Maybe I should keep updating it through the summer… 
 
 Looking at that list, I’m proud of all the things I was able to accomplish and new things I learned despite going to school and class obligations and whatnot. Without a doubt, I learned infinitely more with those projects than I did in my computer science classes. Yay side projects. I have no clue what the future holds (i.e. when employed) when it comes to these adventures.
+
+---
+
+I’m slowly getting my reading list + rss reader unread + notes.app todo down to zero.
+
+Just wrapped up my last college class. Seems crazy that this college thing only started two and a half years ago.
+
+Given that, plus the stay at home order ending, I think that about wraps up this experiment. Maybe I’ll come back and update this log whenever I get new button samples…
+
+Removed all references to Northwestern/College from [Today at Me](https://github.com/atfinke/Today-at-Me) and set [college](https://github.com/atfinke/college) to read only :( 
